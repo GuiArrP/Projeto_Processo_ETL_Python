@@ -10,4 +10,4 @@ O objetivo desse desafio é partir de um arquivo no formato .csv que contém as 
 
 2. O intuito é realizar o ETL dos dados utilizando a biblioteca pandas;
 
-3. Ao final do projeto é desejado que os resultados finais estejam organizados na pasta Results, sendo criado um arquivo excel para cada plataforma e um arquivo mostrando o desempenho geral de cada plataforma.
+3. Ao final do projeto é desejado que os resultados finais estejam organizados no arquivo "Geral_Analysis.xlsx".
